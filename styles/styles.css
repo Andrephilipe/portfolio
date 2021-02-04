@@ -135,8 +135,8 @@ span {
 #Banner {
   position: relative;
   height: 100vh;
-		background: rgb(10,75,94);
-background: radial-gradient(circle, rgba(10,75,94,1) 0%, rgba(0,0,0,1) 100%);
+	background: rgb(10,75,94);
+	background: radial-gradient(circle, rgba(10,75,94,1) 0%, rgba(0,0,0,1) 100%);
 }
 #Banner .content-wrap {
   position: absolute;
@@ -149,6 +149,7 @@ background: radial-gradient(circle, rgba(10,75,94,1) 0%, rgba(0,0,0,1) 100%);
   font-size: 80px;
   margin: 0 0 30px;
   padding: 0;
+  color: white;
 }
 #Banner .content-wrap h3 {
   font-size: 24px;
