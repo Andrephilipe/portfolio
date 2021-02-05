@@ -8,6 +8,7 @@
 body {
   font-family: 'Source Sans Pro', sans-serif;
   overflow-x: hidden;
+ background-color: black;
 }
 .btn-xl {
   padding: 20px 40px;
@@ -135,8 +136,7 @@ span {
 #Banner {
   position: relative;
   height: 100vh;
-	background: rgb(10,75,94);
-	background: radial-gradient(circle, rgba(10,75,94,1) 0%, rgba(0,0,0,1) 100%);
+  background: radial-gradient(circle, rgba(10,75,94,1) 0%, rgba(0,0,0,1) 100%);*/
 }
 #Banner .content-wrap {
   position: absolute;
@@ -146,7 +146,7 @@ span {
   left: 50%;
 }
 #Banner .content-wrap h1 {
-  font-size: 80px;
+  font-size: 50px;
   margin: 0 0 30px;
   padding: 0;
   color: white;
@@ -155,6 +155,7 @@ span {
   font-size: 24px;
   margin: 0 0 30px;
   padding: 0;
+  color: white;
 }
 #Banner .btn-primary {
   background-color: #02ccba;
