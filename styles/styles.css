@@ -38,7 +38,7 @@ h1,h2,h3,h4,h5,h6 {
 	left: 50px;
 	top: 20px;
 }
-.logo i {
+.logo i img{
 	font-size: 10px;
 	color: #fff;
 }
