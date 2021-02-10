@@ -1,1 +1,1 @@
-Primeira página de portfólio, criada com o intuito de servir diretamente profissional.
+Página simples de apresentação de portfoilio, criada com Bootstrap.
