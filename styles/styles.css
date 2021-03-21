@@ -244,17 +244,18 @@ span {
   margin: 0;
 }
 #Services .service-box .yellow {
-  background-color: #02b3e4;
+ 	background: rgb(48,103,120);
+	background: linear-gradient(0deg, rgba(48,103,120,1) 12%, rgba(9,68,85,1) 42%, rgba(0,0,0,1) 96%);
 }
 #Services .service-box .orange {
-  background-color: #02ccba;
+ 	background: rgb(48,103,120);
+	background: linear-gradient(0deg, rgba(48,103,120,1) 12%, rgba(9,68,85,1) 42%, rgba(0,0,0,1) 96%);
 }
 #Services .service-box .red {
-  background-color: #02BED2;
+	background: rgb(48,103,120);
+	background: linear-gradient(0deg, rgba(48,103,120,1) 12%, rgba(9,68,85,1) 42%, rgba(0,0,0,1) 96%);
 }
-#Services .service-box .grey {
-  background-color: #47c6d0;
-}
+
 #Services .service-box:hover .service-icon {
   opacity: 0;
   -webkit-transform: translateY(-110px) rotateX(90deg);
@@ -468,7 +469,7 @@ span {
   line-height: 180%;
 }
 #Contact .address-block.border-bottom {
-  border-bottom: 1px solid #cecece;
+  border-bottom: px solid #cecece;
   margin-bottom: 30px;
   padding-bottom: 30px;
 }
@@ -476,7 +477,7 @@ span {
   margin-right: 20px;
 }
 #Contact .contact-wrapper span i {
-  color: #02ccba;
+  color: black;
 }
 #Contact .form-wrap {
   width: 100%;
@@ -547,7 +548,8 @@ footer.footer .social-link {
   height: 50px;
   width: 50px;
   font-size: 20px;
-  background-color: #02ccba;
+  background: rgb(48,103,120);
+	background: linear-gradient(0deg, rgba(48,103,120,1) 12%, rgba(9,68,85,1) 42%, rgba(0,0,0,1) 96%);
   color: #fff;
   border: none;
   padding: 10px;
